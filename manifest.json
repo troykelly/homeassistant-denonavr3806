@@ -1,0 +1,10 @@
+{
+  "domain": "denonavr3806",
+  "name": "Denon AVR 3806",
+  "documentation": "https://github.com/troykelly/homeassistant-denonavr3806",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": [
+    "@troykelly"
+  ]
+}
